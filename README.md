@@ -1,2 +1,2 @@
 # Chrome-installer
-It fully download and install the latested chrome without need to open IE/Edge... 
+download and install the latested chrome Bec. i am lazy as f--k
